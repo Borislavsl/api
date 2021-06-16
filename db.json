@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "RW-47571 ",
+      "description": "one my description",
+      "id": 1
+    },
+    {
+      "title": "RW-47590 ",
+      "description": "two my description",
+      "id": 2
+    },
+    {
+      "title": "Delete me!",
+      "description": "delete me  second",
+      "userId": "113909411092160823211",
+      "id": 3
+    },
+    {
+      "title": "New Ttitle",
+      "description": "description",
+      "userId": "113909411092160823211",
+      "id": 4
+    }
+  ]
+}
